@@ -1,0 +1,99 @@
+{
+  "site": {
+    "name": "Findigo",
+    "tagline": "Machinery and spare parts",
+    "language": "Language"
+  },
+  "nav": {
+    "home": "Home",
+    "publish": "Sell"
+  },
+  "error": {
+    "notFound": "Nothing here",
+    "notFoundHint": "The page does not exist or has been removed.",
+    "generic": "Something went wrong",
+    "toHome": "Go to the home page"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "unverified": "not verified yet"
+  },
+  "ad": {
+    "untitled": "Listing",
+    "condition": "Condition",
+    "properties": "Specifications",
+    "configuration": "What is included",
+    "fits": "Fits",
+    "replaces": "Replaces",
+    "replacedBy": "Can be replaced by",
+    "seller": "Seller",
+    "responsible": "Contact person: {name}",
+    "pickup": "Pickup",
+    "onlineOnly": "Remote deal only",
+    "identifierHidden": "provided, shown to the seller only",
+    "status": {
+      "draft": "Draft",
+      "active": "Active",
+      "paused": "Paused",
+      "closed": "Closed",
+      "expired": "Expired"
+    }
+  },
+  "form": {
+    "title": "Sell machinery or a part",
+    "what": "What are you selling",
+    "category": "Kind of item",
+    "brand": "Brand",
+    "model": "Model",
+    "partNumber": "Part number",
+    "manufacturer": "Manufacturer",
+    "specifications": "Specifications",
+    "propertyName": "Property",
+    "propertyKind": "How to answer",
+    "kindNumber": "Number",
+    "kindDesignation": "Value",
+    "number": "Number",
+    "numberOptional": "Number (optional)",
+    "unit": "Unit",
+    "value": "Value",
+    "addProperty": "+ Add a property",
+    "state": "Condition",
+    "condition": "Condition",
+    "damage": "Damage or wear",
+    "addDamage": "+ Add damage or wear",
+    "identifierKind": "Kind of number: VIN, serial…",
+    "identifierValue": "Number",
+    "addIdentifier": "+ Add a number",
+    "configuration": "What is included",
+    "slot": "Part",
+    "quantity": "Quantity",
+    "describePart": "Describe this particular part",
+    "addComponent": "+ Add a part",
+    "addComponentTo": "+ Add a part to {parent}",
+    "fits": "Fits",
+    "replaces": "Replaces",
+    "mutual": "Interchangeable both ways",
+    "addVariant": "+ Add a variant",
+    "deal": "Deal",
+    "price": "Price",
+    "currency": "Currency",
+    "pickup": "Pickup point",
+    "onlineOnly": "Remote deal only",
+    "submit": "Publish",
+    "sending": "Publishing…",
+    "published": "Published",
+    "similar": "{count, plural, one {There is # similar item in the catalog — is it the same one?} other {There are # similar items in the catalog — is one of them the same?}}",
+    "unreadable": "Could not read: {names}. Please check these values.",
+    "openAd": "Open the listing",
+    "noOrganization": "Publishing is not available yet: sign-in is coming soon.",
+    "similarOpen": "Open the similar item"
+  },
+  "catalog": {
+    "emptyShowcase": "The showcase is being arranged. Meanwhile you can already sell:",
+    "sellHere": "sell",
+    "sellThis": "Sell the same",
+    "fittedBy": "What fits it",
+    "templateUnverified": "Added by a seller, not verified yet"
+  }
+}
